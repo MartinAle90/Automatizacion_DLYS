@@ -32,6 +32,7 @@ public class TestSuit {
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 
 
+
     }
 
     @AfterClass
